@@ -1,0 +1,7 @@
+applications:
+- name: spring-music-graysonk
+  memory: 1024m
+  host: spring-music-graysonkg-1107
+  domain: cfapps.io
+  path: C:\Users\Intel\Downloads\capgemini\spring-music\spring-music\pre-built\spring-music.war
+  instances: 1
